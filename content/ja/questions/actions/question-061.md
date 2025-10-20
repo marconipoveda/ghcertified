@@ -1,6 +1,6 @@
 ---
-question: "次のうち、GitHub Actionsのデフォルトの環境変数はどれですか？（3つ選択してください。）"
-title: "質問061"
+question: "次のうち、GitHub Actionsのデフォルト環境変数はどれですか？（3つ選択してください）"
+title: "質問 061"
 ---
 
 
