@@ -5,7 +5,7 @@ question: "GitHub Actions ジョブのデフォルトのタイムアウトは何
 
 
 > https://docs.github.com/en/actions/reference/limits#existing-system-limits
-1. [ ] 30分
-1. [ ] 60分
-1. [ ] 120分
-1. [x] 360分
+1. [ ] 30 分
+1. [ ] 60 分
+1. [ ] 120 分
+1. [x] 360 分

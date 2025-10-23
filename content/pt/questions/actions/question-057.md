@@ -1,6 +1,6 @@
 ---
-question: "O que é verdadeiro sobre ambientes?"
-title: "Pergunta 057"
+question: "Qual é verdadeiro sobre os ambientes?"
+title: "Questão 057"
 ---
 
 > https://docs.github.com/en/actions/concepts/workflows-and-actions/deployment-environments
