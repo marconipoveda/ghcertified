@@ -1,6 +1,6 @@
 ---
 title: "Pytanie 090"
-question: "Jaki jest domyślny czas oczekiwania dla zadania w GitHub Actions?"
+question: "Jaki jest domyślny limit czasu dla zadania GitHub Actions?"
 ---
 
 
