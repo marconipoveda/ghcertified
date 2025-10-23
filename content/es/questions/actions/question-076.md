@@ -1,5 +1,5 @@
 ---
-question: "¿Cuál es la cantidad máxima de workflows reutilizables que se pueden llamar desde un único archivo de workflow?"
+question: "¿Cuál es la cantidad máxima de workflows reutilizables que se pueden llamar desde un solo archivo de workflow?"
 title: "Pregunta 076"
 ---
 
