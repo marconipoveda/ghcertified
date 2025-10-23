@@ -1,5 +1,5 @@
 ---
-question: "GitHub Actionsはパブリックリポジトリで無料ですか？"
+question: "GitHub Actions はパブリックリポジトリで無料ですか？"
 title: "質問 004"
 ---
 
