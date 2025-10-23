@@ -1,5 +1,5 @@
 ---
-question: "¿Cuál es verdadero acerca de los entornos?"
+question: "¿Qué es verdadero acerca de los entornos?"
 title: "Pregunta 057"
 ---
 
