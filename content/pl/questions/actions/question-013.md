@@ -1,6 +1,6 @@
 ---
 question: "W przepływie pracy z wieloma zadaniami, jeśli zadanie A zakończy się niepowodzeniem, to:"
-title: "Pytanie 013"
+title: "Question 013"
 ---
 
 > https://docs.github.com/en/actions/how-tos/write-workflows/choose-what-workflows-do/use-jobs#defining-prerequisite-jobs
