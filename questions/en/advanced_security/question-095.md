@@ -1,6 +1,6 @@
 ---
 question: "How can you set a default security vulnerability reporting policy for all repositories in the `my-org` GitHub Organization?"
-documentation: "https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file#supported-file-types"
+documentation: "https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file#about-default-community-health-files"
 ---
 
 - [x] By creating a `SECURITY.md` file in the `my-org/.github` repository
